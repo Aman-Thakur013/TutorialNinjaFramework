@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-18T21:09:53 IST" name="Suite" finished-at="2025-08-18T21:10:42 IST" duration-ms="49303">
+    <groups>
+    </groups>
+    <test started-at="2025-08-18T21:09:53 IST" name="Login" finished-at="2025-08-18T21:10:42 IST" duration-ms="49303">
+      <class name="TestCases.RegisterPageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:TestCases.RegisterPageTest@6aaceffd]" started-at="2025-08-18T21:10:00 IST" name="SetUp" finished-at="2025-08-18T21:10:05 IST" duration-ms="4394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.RegisterPageTest@6aaceffd]" started-at="2025-08-18T21:10:05 IST" name="register" data-provider="dp" finished-at="2025-08-18T21:10:11 IST" duration-ms="6121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thakur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ipCOi@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9854677215]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[aman0980]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[aman0980]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.RegisterPageTest@6aaceffd]" started-at="2025-08-18T21:10:11 IST" name="register" data-provider="dp" finished-at="2025-08-18T21:10:16 IST" duration-ms="5090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thakur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HjMqt@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9854677215]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[aman0987]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[aman0987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.RegisterPageTest@6aaceffd]" started-at="2025-08-18T21:10:16 IST" name="register" data-provider="dp" finished-at="2025-08-18T21:10:21 IST" duration-ms="5227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kashyap]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[QCTDK@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9886847947]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[yash7890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[yash7890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- TestCases.RegisterPageTest -->
+      <class name="TestCases.CheckoutPageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:TestCases.CheckoutPageTest@3af9c5b7]" started-at="2025-08-18T21:10:38 IST" name="SetUp" finished-at="2025-08-18T21:10:41 IST" duration-ms="2967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="checkout()[pri:0, instance:TestCases.CheckoutPageTest@3af9c5b7]" started-at="2025-08-18T21:10:41 IST" name="checkout" finished-at="2025-08-18T21:10:42 IST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- TestCases.CheckoutPageTest -->
+      <class name="TestCases.LoginPageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:TestCases.LoginPageTest@7a8c8dcf]" started-at="2025-08-18T21:09:53 IST" name="SetUp" finished-at="2025-08-18T21:09:57 IST" duration-ms="4124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:TestCases.LoginPageTest@7a8c8dcf]" started-at="2025-08-18T21:09:57 IST" name="Login" data-provider="dp" finished-at="2025-08-18T21:10:00 IST" duration-ms="3035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aman1230@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aman122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- TestCases.LoginPageTest -->
+      <class name="TestCases.SearchPageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:TestCases.SearchPageTest@c86b9e3]" started-at="2025-08-18T21:10:21 IST" name="SetUp" finished-at="2025-08-18T21:10:24 IST" duration-ms="3138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="search(java.lang.String)[pri:0, instance:TestCases.SearchPageTest@c86b9e3]" started-at="2025-08-18T21:10:24 IST" name="search" data-provider="dp" finished-at="2025-08-18T21:10:25 IST" duration-ms="707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="search(java.lang.String)[pri:0, instance:TestCases.SearchPageTest@c86b9e3]" started-at="2025-08-18T21:10:25 IST" name="search" data-provider="dp" finished-at="2025-08-18T21:10:25 IST" duration-ms="451" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monitor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- TestCases.SearchPageTest -->
+      <class name="TestCases.AddToCartPageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:TestCases.AddToCartPageTest@10aa41f2]" started-at="2025-08-18T21:10:25 IST" name="SetUp" finished-at="2025-08-18T21:10:29 IST" duration-ms="3058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="cart()[pri:0, instance:TestCases.AddToCartPageTest@10aa41f2]" started-at="2025-08-18T21:10:29 IST" name="cart" finished-at="2025-08-18T21:10:38 IST" duration-ms="9272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+      </class> <!-- TestCases.AddToCartPageTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Suite -->
+</testng-results>
